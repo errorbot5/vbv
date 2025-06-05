@@ -1,0 +1,6 @@
+requests
+uuid
+jwt
+user_agent
+pyTelegramBotAPI
+
